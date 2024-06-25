@@ -1,2 +1,2 @@
-# Math and Computer Science Miscellanea
-A collection of fun exercises in math and computer science.
+# Data Structures and Algorithms
+A collection of exercises in data structures and algorithms.
