@@ -6,5 +6,4 @@ A collection of exercises in data structures and algorithms. Items covered:
 - Tries
 - Linked lists
 - Dijkstra's algorithm
-- Integer sorting
-- Longest substring
+- Longest palindrome
