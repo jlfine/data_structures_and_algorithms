@@ -1,10 +1,10 @@
-# Data Structures and Algorithms
+## Data Structures and Algorithms
 A collection of exercises in data structures and algorithms. Items covered:
 
 - Binary trees
 - AVL trees
 - Tries
-- Linked list
+- Linked lists
 - Dijkstra's algorithm
 - Integer sorting
-- Longest substring 
+- Longest substring
